@@ -41,3 +41,37 @@ Requirements:
 - Do NOT include a title — I already have one
 - Do NOT add "In conclusion" — just write a strong closing paragraph
 ```
+
+## Example
+
+**Input:**
+- Target keyword: AI marketing tools
+- Secondary keywords: marketing automation, AI for small business, AI content tools
+- Outline:
+  - H2: What Are AI Marketing Tools?
+  - H2: 5 AI Marketing Tools Worth Using in 2025
+  - H2: How to Choose the Right AI Tool for Your Business
+- Word count: 800
+- CTA: Book a free strategy call at atomicdigital.com/call
+- Tone: professional but approachable
+
+**Output (excerpt — first section only):**
+
+## What Are AI Marketing Tools?
+
+AI marketing tools use machine learning and natural language processing to handle tasks that used to eat up your entire afternoon — writing ad copy, analyzing campaign data, segmenting audiences, and optimizing bids in real time.
+
+Think of them as a second brain for your marketing team. They don't replace your strategy. They execute it faster.
+
+Here's what the best AI marketing tools typically handle:
+
+- **Content creation** — blog drafts, social captions, email subject lines
+- **Ad optimization** — automatic bid adjustments and audience targeting
+- **Analytics** — pattern detection across campaigns that humans would miss
+- **Personalization** — dynamic content tailored to user behavior
+
+The catch? Not every tool delivers on the hype. Some are glorified templates with an "AI" label slapped on. In the next section, we'll break down five that actually move the needle.
+
+*[... remaining sections continue following the outline ...]*
+
+Ready to see how AI marketing tools can work for your specific business? **[Book a free strategy call](https://atomicdigital.com/call)** and we'll map out a plan together.

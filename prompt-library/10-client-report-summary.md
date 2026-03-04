@@ -56,3 +56,61 @@ Requirements:
 - Be honest about what's not working — don't sugarcoat
 - Keep the entire report under 500 words
 ```
+
+## Example
+
+**Input:**
+- Client: Brightside Dental
+- Reporting period: February 2025
+- Previous period: January 2025
+- Data:
+  - Sessions: 4,820 (was 3,910)
+  - Organic sessions: 3,105 (was 2,340)
+  - Google Ads clicks: 1,290 (was 1,410)
+  - Google Ads spend: $2,100 (was $2,100)
+  - Form submissions: 87 (was 62)
+  - Phone calls from website: 34 (was 28)
+  - Top landing page: /teeth-whitening-tampa (1,240 sessions)
+  - Bounce rate: 52% (was 58%)
+  - Avg. session duration: 2m 18s (was 1m 52s)
+
+**Output:**
+
+**1. Executive Summary**
+
+February was Brightside Dental's strongest month since we started. Organic traffic jumped 33% thanks to the teeth whitening content we published in January, and total leads (forms + calls) hit 121 — up 40% from last month. One area to watch: Google Ads click volume dipped 8.5% at the same budget, suggesting rising competition in paid search. Overall trend is solidly upward.
+
+**2. Key Metrics**
+
+| Metric | Feb 2025 | Jan 2025 | Change |
+|---|---|---|---|
+| Total Sessions | 4,820 | 3,910 | +23.3% |
+| Organic Sessions | 3,105 | 2,340 | +32.7% |
+| Google Ads Clicks | 1,290 | 1,410 | -8.5% |
+| Ad Spend | $2,100 | $2,100 | — |
+| Cost Per Ad Click | $1.63 | $1.49 | +9.4% |
+| Form Submissions | 87 | 62 | +40.3% |
+| Phone Calls | 34 | 28 | +21.4% |
+| Total Leads | 121 | 90 | +34.4% |
+| Bounce Rate | 52% | 58% | -6 pts |
+| Avg. Session Duration | 2m 18s | 1m 52s | +23.3% |
+
+**3. Top Insights**
+
+- The /teeth-whitening-tampa page is the #1 traffic driver this month, pulling 1,240 sessions almost entirely from organic search. The blog-to-service-page strategy is paying off.
+- Bounce rate dropped 6 points and time on site increased — visitors are finding your content more relevant and exploring more pages.
+- Google Ads cost per click rose 9.4% without a budget change, which means you got fewer clicks for the same spend. Competitor bidding in the Tampa dental space is heating up.
+- Form submissions grew faster than phone calls, suggesting the new contact form placement on service pages is working.
+
+**4. Recommendations**
+
+- **Create** 2 more localized service pages (dental implants, emergency dentist) to replicate the teeth whitening traffic success.
+- **Audit** Google Ads keywords and pause any with cost-per-click above $3.50 and low conversion rates to fight rising CPCs.
+- **Test** a click-to-call button above the fold on mobile — phone leads are growing but still lag behind form fills.
+- **Add** patient testimonials to the top 3 landing pages to improve trust signals and conversion rate.
+
+**5. Next Period Goals**
+
+- Reach 5,500 total sessions (+14%)
+- Hit 135 total leads (forms + calls)
+- Reduce Google Ads cost per click below $1.50 through keyword refinement

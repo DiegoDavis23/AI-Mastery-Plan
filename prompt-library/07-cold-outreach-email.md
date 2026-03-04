@@ -47,3 +47,43 @@ Subject: ...
 
 [body]
 ```
+
+## Example
+
+**Input:**
+- Sending from: Davis, Founder at Atomic Digital
+- Sending to: Marketing Director at Brightside Dental
+- Their industry: Dental / Healthcare
+- Their website: brightsidedental.com
+- Problem you solve: Local businesses losing patients to competitors who rank higher on Google
+- Specific observation: "Brightside Dental ranks #14 for 'dentist in Tampa' — your competitors on page 1 are getting roughly 80% of the clicks"
+
+**Output:**
+
+**Variation 1 — Angle: Data-driven observation**
+Subject: Your Google ranking for Tampa
+
+Hi,
+
+I was looking at dental practices in Tampa and noticed Brightside Dental sits at #14 for "dentist in Tampa." That puts you on page 2 — where roughly 1% of searchers ever click.
+
+We helped a dental group in Orlando move from position 11 to position 3 in four months, which added 40+ new patient inquiries per month.
+
+Would it be worth a 15-minute chat to see if there's a similar opportunity for Brightside?
+
+Davis
+Founder, Atomic Digital
+
+**Variation 2 — Angle: Competitor gap**
+Subject: Page 2 is expensive
+
+Hi,
+
+Your competitors on page 1 for "dentist in Tampa" are capturing an estimated 3,400 clicks/month. Brightside Dental at #14 is likely getting a fraction of that — even though your reviews are stronger than half of them.
+
+We've helped practices close that exact gap without running ads. Happy to share how.
+
+Open to a quick call this week?
+
+Davis
+Founder, Atomic Digital
